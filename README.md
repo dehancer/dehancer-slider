@@ -5,7 +5,6 @@ that can be found in the LICENSE file. -->
 # dehancer_slider
 
 [![pub package](https://img.shields.io/pub/v/dehancer_slider?label=master)][pub package]
-[![GitHub](https://img.shields.io/github/license/dehancer/dehancer-slider)][repo]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
@@ -130,7 +129,6 @@ DehancerSlider(
 [repo]: https://github.com/dehancer/dehancer-slider
 [GitHub issues]: https://github.com/dehancer/dehancer-slider/issues
 
-[license_badge]: https://img.shields.io/badge/license-Apache-blue.svg
 [license_link]: https://opensource.org/licenses/Apache-2.0
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
