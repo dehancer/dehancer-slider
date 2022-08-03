@@ -14,15 +14,16 @@ that can be found in the LICENSE file. -->
 
 ![Screenshot](https://github.com/dehancer/dehancer-slider/blob/master/rosources/DehancerSlider.png)
 
-## Prepare for use
+## Getting Started
 
-### Add the plugin reference to pubspec.yaml
+### Add the package reference to pubspec.yaml
 
-Two ways to add the plugin to your pubspec:
+Two ways to add the package to your pubspec:
 - **(Recommend)** Run `flutter pub add dehancer_slider`. 
 - Add the package reference in your `pubspec.yaml`'s `dependencies` section:
 ```yaml
 dependencies:
+  ...
   dehancer_slider: $latest_version
 ```
 
@@ -35,7 +36,7 @@ The latest stable version is:
 import 'package:dehancer_slider/dehancer_slider.dart';
 ```
 
-## Usage
+## Usage Examples
 
 ### Slider with values from 0 to 100
 
