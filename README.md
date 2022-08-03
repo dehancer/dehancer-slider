@@ -6,7 +6,7 @@ that can be found in the LICENSE file. -->
 
 [![pub package](https://img.shields.io/pub/v/dehancer_slider?label=master)][pub package]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
-[![License: MIT][license_badge]][license_link]
+[![License: Apache]][license_link]
 
 *Dehancer Slider* is a Flutter package that provides configurable and easy to use slider UI value picker.
 
