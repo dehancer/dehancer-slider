@@ -251,9 +251,9 @@ class _MyHomePageState extends State<MyHomePage> {
                     _values[valueKey] = value;
                   });
                 },
-                onScrollingChanged: (isScrolling) {
+                onScrollingChanged: (isChanging) {
                   setState(() {
-                    _canScroll = !isScrolling;
+                    _canScroll = !isChanging;
                   });
                 },
               ),
