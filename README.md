@@ -10,6 +10,9 @@ that can be found in the LICENSE file. -->
 
 *Dehancer Slider* is a Flutter package that provides configurable and easy to use slider UI value picker.
 
+There is a **like** button. Give it a shot 👍
+
+
 ![Demo](https://user-images.githubusercontent.com/34459912/182520367-f2516951-9a4b-4b25-b035-4c58951ee10d.mp4)
 
 ![Screenshot](https://github.com/dehancer/dehancer-slider/blob/master/rosources/DehancerSlider.png)
@@ -31,7 +34,7 @@ Two ways to add the package to your pubspec:
 ```yaml
 dependencies:
   ...
-  dehancer_slider: ^1.0.3
+  dehancer_slider: ^1.0.4
 ```
 
 The latest stable version is:

@@ -229,7 +229,7 @@ class _DehancerSliderState extends State<DehancerSlider> {
               ),
               Positioned(
                 // Track handle
-                top: 0, //constraints.maxHeight / 2 - constraints.minHeight / 2,
+                top: 0,
                 left: _currentPosition! - _touchPadding,
                 child: Listener(
                   onPointerDown: (event) {
