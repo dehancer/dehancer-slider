@@ -11,7 +11,9 @@ that can be found in the LICENSE file. -->
 
 Dehancer Slider package - a Flutter package that provides configurable and easy to use slider UI value picker.
 
-![Demo](https://github.com/dehancer/dehancer-slider/blob/master/rosources/DehancerSlider.mp4?raw=true)
+![Demo](https://github.com/dehancer/dehancer-slider/blob/master/rosources/DehancerSlider.mp4)
+
+![Demo](https://github.com/dehancer/dehancer-slider/blob/master/rosources/DehancerSlider.png)
 
 ## Prepare for use
 
