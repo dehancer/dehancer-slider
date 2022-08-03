@@ -4,6 +4,10 @@ that can be found in the LICENSE file. -->
 
 # CHANGELOG
 
+## 1.0.3
+
+Minor podspec and README updates.
+
 ## 1.0.2
 
 Minor podspec updates.

@@ -1,6 +1,6 @@
 name: dehancer_slider
-description: Dehancer Slider package
-version: 1.0.2
+description: Flutter package that provides configurable and easy to use slider UI value picker.
+version: 1.0.3
 homepage: https://www.dehancer.com
 repository: https://github.com/dehancer/dehancer-slider
 

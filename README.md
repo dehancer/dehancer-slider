@@ -14,6 +14,13 @@ that can be found in the LICENSE file. -->
 
 ![Screenshot](https://github.com/dehancer/dehancer-slider/blob/master/rosources/DehancerSlider.png)
 
+## Supported platforms
+
+* Flutter iOS
+* Flutter Android
+* Flutter Web
+* Flutter Desktop
+
 ## Getting Started
 
 ### Add the package reference to pubspec.yaml
@@ -24,7 +31,7 @@ Two ways to add the package to your pubspec:
 ```yaml
 dependencies:
   ...
-  dehancer_slider: $latest_version
+  dehancer_slider: ^1.0.3
 ```
 
 The latest stable version is:
