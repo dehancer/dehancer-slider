@@ -1,7 +1,8 @@
 name: dehancer_slider
 description: Dehancer Slider package
-version: 1.0.1
-homepage: https://github.com/dehancer/dehancer-slider
+version: 1.0.2
+homepage: https://www.dehancer.com
+repository: https://github.com/dehancer/dehancer-slider
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
