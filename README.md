@@ -4,7 +4,7 @@ that can be found in the LICENSE file. -->
 
 # dehancer_slider
 
-[![pub package](https://img.shields.io/pub/v/dehancer_slider?label=stable)][pub package]
+[![pub package](https://img.shields.io/pub/v/dehancer_slider?label=master)][pub package]
 [![GitHub](https://img.shields.io/github/license/dehancer/dehancer-slider)][repo]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
